@@ -251,3 +251,15 @@ tcp6       0      0 :::22                   :::*                    LISTEN
 ```
 
 (Tidak selesai)
+
+<hr>
+
+**Revisi**:
+
+**8**. Langkah pertama yang harus dilakukan adalah download file sesuai dengan petunjuk dari soal.
+```
+Knights:~# wget knights_report.zip "https://drive.google.com/drive/folders/1tvZpueSH9E3GWwXM6KNnM64Y5wNoIAYP"
+Knights:~# unzip Knights_report.zip
+```
+
+baru mengupload file yang sudah diunzip tadi ke FTP Server Chisa menggunakan akun alice
